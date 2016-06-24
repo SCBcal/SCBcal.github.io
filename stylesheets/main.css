@@ -9,6 +9,10 @@ body{
 	overflow-x:hidden; 
 }
 
+.whiteTitle{
+	color:black;
+}
+
 #floorplan1{text-align: left;float: left;
 
 }
