@@ -238,7 +238,7 @@ f* {
     .contact .col {
         float: left;
         padding: 30px 2px 0;
-        width: 50%;
+        width: auto;
     }
     .contact .social {
         clear: both;
