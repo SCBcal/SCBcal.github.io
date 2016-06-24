@@ -1,16 +1,17 @@
 
 html{font-family: 'Stellar'; font-weight:300;
-	src: url('../../fonts/Stellar/Stellar-light.otf');
+	src: url('../Stellar/Stellar-light.otf');
 	overflow-x:hidden; 
 }
 body{
 	font-family: 'Stellar'; font-weight:300;
-	src: url('../../fonts/Stellar/Stellar-light.otf');
+	src: url('../Stellar/Stellar-light.otf');
 	overflow-x:hidden; 
 }
 
 .whiteTitle{
 	color:black;
+	font-family: 'Stellar';
 }
 
 #floorplan1{text-align: left;float: left;
