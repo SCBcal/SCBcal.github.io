@@ -1188,7 +1188,7 @@ fieldset h1 {
 }
 .project-head h2{
     font-family: 'Stellar'; font-weight:300;
-	src: url('../../fonts/Stellar/Stellar-light.otf');
+	src: url('../Stellar/Stellar-light.otf');
     font-size: 16px;
     font-weight: 700;
     letter-spacing: 8px;
