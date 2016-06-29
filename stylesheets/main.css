@@ -8,6 +8,21 @@ body{
 	src: url('../Stellar/Stellar-light.otf');
 	overflow-x:hidden; 
 }
+.myImages{
+	display: inline-block;
+	justify-content: center;
+	width: 100%;
+	text-align: center;
+	padding-top:10px;
+}
+.fancybox{
+	display: inline-block;
+}
+
+.fancybox img{
+	max-width: 400px;
+	max-height: 400px;
+}
 
 .whiteTitle{
 	color:#2d2d2d;
@@ -28,10 +43,11 @@ body{
 .final{
 	text-align: center;
 	width: 100%;
+	display: inline-block;
 }
 
 #MVB{
-	width: 25%;
+	width: 30%;
 }
 
 a, a:hover, a:focus{
@@ -79,8 +95,9 @@ h1,h2,h3,h4,h5,h6{
 	}
 }
 
-.vag{
+#vag{
 	margin-top: 40px;
+	padding-bottom: 10px;
 }
 
 .btn{
