@@ -9,6 +9,18 @@ f* {
   width:100%;
 }
 
+.developers{
+    display: inline-block;
+    width: 100%;
+}
+.developers p{
+    display: inline-block;
+}
+
+.developers #jen{
+    float:right;
+}
+
 
 @font-face{
   font-family: "Stellar";

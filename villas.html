@@ -21,11 +21,8 @@
 <link href="stylesheets/overlay.css" rel="stylesheet">
 <link href="stylesheets/toppanel.css" rel="stylesheet">
 <link href="stylesheets/intro.css" rel="stylesheet">
-
-
-
+<link rel="stylesheet" href="/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
 <link href="stylesheets/main.css" rel="stylesheet">
-
 <link href="stylesheets/main-responsive.css" rel="stylesheet">
 <link href="stylesheets/main-retina.css" rel="stylesheet">
 <link rel="stylesheet/less" type="text/css" href="less/color.less">
@@ -33,6 +30,7 @@
 <script src="less/less-1.5.0.min.js"></script>
 <!-- these are fonts but i used yours so ignore this link ok?-->
 <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,700,900%7COpen+Sans:400,300,700,800%7CMontserrat:400,700' rel='stylesheet' type='text/css'>
+
 
 </head>
 
@@ -221,7 +219,7 @@
 						<div class="liner-wide text-center"><span class="color-bg"></span></div>
 				</div>
 
-				<div class="final">
+<!-- 				<div class="final">
 					<div class="col-md-4  text-center hero-caps">
 						<img src="images/villa/unitfloorplan.jpg">
 						<p>Unit Floor Plan</p>
@@ -236,7 +234,21 @@
 						<img src="images/villa/commonareafloorplan.jpg">
 						<p>Common Area Floor Plan</p>
 					</div>
+				</div> -->
+				<div class="final">	
+					<div id="Vag" class="col-md-12 text-center hero-caps">
+						<p>If you would like to know more about the property, follow the link below.</p>
+			          <label class="btn" id="MVB">
+			            <a id ="vlink" href="mission.docx" autocomplete="off"> Mission Villas Apartments</a>
+			          </label>
+					</div>
 				</div>
+
+				<div class="myImages">
+					<a class="fancybox" rel="group" href="images/villa/unitfloorplan.jpg"><img src="images/villa/unitfloorplan.jpg" alt="" /></a>
+					<a class="fancybox" rel="group" href="images/villa/commonareafloorplan.jpg"><img src="images/villa/commonareafloorplan.jpg" alt=""/></a>
+				</div>
+
 
 
 <!-- 				<div class="final">
@@ -310,6 +322,8 @@
 <script src="javascripts/isotope.js"></script>
 <script src="javascripts/jquery.backstretch.min.js"></script>
 <script src="javascripts/jquery.parallax-1.1.3.js"></script>
+
+
 <!-- JS Custom Codes --> 
 <script src="javascripts/parallax-init.js" ></script> 
 <script src="javascripts/animations-init.js"></script> 

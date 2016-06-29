@@ -14,12 +14,24 @@ body{
 	font-family: 'Stellar';
 }
 
-#floorplan1{text-align: left;float: left;
+#floorplan1{
+	text-align: left;
+	float: left;
 
 }
 
-#floorplan2 {text-align: right;float: right;
+#floorplan2 {
+	text-align: right;
+	float: right;
+}
 
+.final{
+	text-align: center;
+	width: 100%;
+}
+
+#MVB{
+	width: 25%;
 }
 
 a, a:hover, a:focus{
