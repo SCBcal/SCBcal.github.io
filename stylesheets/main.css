@@ -8,6 +8,19 @@ body{
 	src: url('../Stellar/Stellar-light.otf');
 	overflow-x:hidden; 
 }
+
+
+#exTab2 h3 {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+}
+
+
+/*Ends pills section*/
+
+
+
 .myImages{
 	display: inline-block;
 	justify-content: center;
