@@ -9,6 +9,9 @@ body{
 	overflow-x:hidden; 
 }
 
+.tab-pane{
+	display: inline-block;
+}
 
 #exTab2 h3 {
   color : white;
@@ -18,8 +21,9 @@ body{
 
 
 /*Ends pills section*/
-
-
+#MVB {
+	margin-bottom: 50px;
+}
 
 .myImages{
 	display: inline-block;
