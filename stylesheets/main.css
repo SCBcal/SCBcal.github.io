@@ -382,6 +382,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .liner-wide-intro{
 	margin: 30px 0;
+	color:#4CD964;
 }
 .liner-wide-intro > span{
 	display: inline-block;
@@ -1228,7 +1229,7 @@ fieldset h1 {
 .project-head h3{
    font-family: 'Stellar'; font-weight:300;
 	src: url('../Stellar/Stellar-light.otf');
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 350;
     letter-spacing: 8px;
     line-height: 39px;
