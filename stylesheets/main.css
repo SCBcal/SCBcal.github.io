@@ -8,6 +8,10 @@ body{
 	src: url('../Stellar/Stellar-light.otf');
 	overflow-x:hidden; 
 }
+.color-bg{
+	background-color: #4CD964;
+}
+
 .nav-tabs>li>a{
 	color: black;
 }
