@@ -108,7 +108,7 @@ a:focus {
 p {
 	color: #686868;
     font-family: font-family: 'Stellar';
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 300;
     line-height: 25px;
 }
@@ -341,7 +341,7 @@ h1,h2,h3,h4,h5,h6{
     border:solid 1px;
 }
 .hero-caps h3 {
-	margin-top: 50px;
+	margin-top: 20px;
     font-family: 'Stellar';
     font-size: 16px;
     font-weight: 300;
