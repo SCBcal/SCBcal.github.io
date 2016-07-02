@@ -8,6 +8,12 @@ body{
 	src: url('../Stellar/Stellar-light.otf');
 	overflow-x:hidden; 
 }
+#vag p{
+	font-size: 16px;
+	font-weight: 400;
+	margin-top: 30px;
+}
+
 .color-bg{
 	background-color: #4CD964;
 }
