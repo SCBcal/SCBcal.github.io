@@ -8,6 +8,28 @@ body{
 	src: url('../Stellar/Stellar-light.otf');
 	overflow-x:hidden; 
 }
+.dark{
+	max-width: 600px auto;
+	text-align: center;
+}
+
+.whiteTitle{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#centerImg{
+	justify-content: center;
+	text-align: center;
+	display: block;
+}
+
+#centerImgID{
+	max-width: 800px;
+	height:auto;
+	padding-top: 10px;
+}
+
 #vag{
 	font-size: 16px;
 	font-weight: 400;
@@ -168,7 +190,7 @@ h1,h2,h3,h4,h5,h6{
 	margin-bottom: 120px;
 }
 .add-top-half{
-	margin-top: 60px;
+	margin-top: 0px;
 }
 .add-bottom-half{
 	margin-bottom: 60px;
@@ -1249,7 +1271,7 @@ fieldset h1 {
     line-height: 39px;
     margin-bottom: 0;
     padding: 0;
-    padding-top: 50px;
+    padding-top: 350px;
     text-transform: uppercase;
 }
 .project-head h2{
