@@ -8,7 +8,7 @@
 
 /*Huge Displays*/
 @media (min-width: 3000px) {
-	 
+
 	.team-block-wrap{
 		padding: 260px 300px;
 	}
@@ -23,7 +23,7 @@
 	.team-block-wrap{
 		padding: 260px 300px;
 	}
-	  
+
 	#sm-trigger{
 		display: none;
 	}
@@ -35,7 +35,7 @@
 	.team-block-wrap{
 		padding: 260px 300px;
 	}
-	 
+
 	#sm-trigger{
 		display: none;
 	}
@@ -236,8 +236,8 @@
 	.team-block-wrap, .news-block-wrap{
 		padding: 40px;
 	}
-	
-	
+
+
 }
 
 /*Medium Tablets */
@@ -393,7 +393,7 @@
 	.team-block-wrap, .news-block-wrap{
 		padding: 40px;
 	}
-	
+
 }
 
 /*iPad Portrait Mode, iPad Mini and Small Tablets */
@@ -401,7 +401,7 @@
 	 .container{
 	    max-width: 668px;
 	}
-	
+
 	.add-top-half{
 	}
 	.add-bottom-half{
@@ -558,6 +558,7 @@
 	.project-head h3{
 	    font-size: 12px;
 	    line-height: 20px;
+			padding-top:200px;
 	}
 	.project-head h2{
 	    font-size: 16px;
@@ -584,7 +585,7 @@
 	    padding-left:50px;
 	    padding-right:50px;
 	}
-	
+
 	.add-top-half{
 	}
 	.add-bottom-half{
@@ -752,8 +753,8 @@
 		padding: 40px;
 	}
 
-	
-} 
+
+}
 
 /*Google Nexus and Other Large Smart Phones v1*/
 @media screen and (max-width: 600px) {
@@ -929,9 +930,9 @@
 		padding: 40px;
 	}
 
-	
-	
-} 
+
+
+}
 
 /*iPhone Landscape Mode and Mediium Smart Phones*/
 @media screen and (max-width: 480px) {
@@ -1105,7 +1106,7 @@
 		padding: 40px;
 	}
 
-	
+
 }
 
 /*Other Major Small Smart Phones*/
@@ -1280,7 +1281,7 @@
 		padding: 40px;
 	}
 
-	
+
 }
 
 /*iPhone Portrait Mode and Very Small Mobile Phones*/
@@ -1456,6 +1457,3 @@
 	}
 
 }
-
-
-

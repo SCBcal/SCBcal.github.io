@@ -1,12 +1,12 @@
 
 html{font-family: 'Stellar'; font-weight:300;
 	src: url('../Stellar/Stellar-light.otf');
-	overflow-x:hidden; 
+	overflow-x:hidden;
 }
 body{
 	font-family: 'Stellar'; font-weight:300;
 	src: url('../Stellar/Stellar-light.otf');
-	overflow-x:hidden; 
+	overflow-x:hidden;
 }
 .dark{
 	max-width: 600px auto;
@@ -25,7 +25,7 @@ body{
 }
 
 #centerImgID{
-	max-width: 800px;
+	max-width: auto;
 	height:auto;
 	padding-top: 10px;
 }
@@ -113,8 +113,8 @@ body{
 a, a:hover, a:focus{
 	text-decoration: none;
 }
-a:focus { 
-    	outline: none; 
+a:focus {
+    	outline: none;
 }
 .animated{
 	visibility: hidden;
@@ -730,7 +730,7 @@ h1,h2,h3,h4,h5,h6{
 .service-details{
 	display: none;
 	padding: 60px 0;
-	width: 100% !important; 
+	width: 100% !important;
 }
 #service-details-01{
 	display: block;
@@ -1271,7 +1271,7 @@ fieldset h1 {
     line-height: 39px;
     margin-bottom: 0;
     padding: 0;
-    padding-top: 350px;
+    padding-top: 400px;
     text-transform: uppercase;
 }
 .project-head h2{
@@ -1382,8 +1382,3 @@ font-family: 'Raleway', sans-serif; font-weight:300;
 	background: url('tobias2.jpg') 50% 0 no-repeat fixed;
 	background-size: cover;
 }
-
-
-
-
-
