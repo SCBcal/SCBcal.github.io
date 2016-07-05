@@ -26,6 +26,10 @@ body{
 	display: inline-block;
 }
 
+#t1 h3{
+	text-align: center;
+}
+
 #exTab2 h3 {
   color : white;
   background-color: #4CD964;

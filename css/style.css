@@ -17,10 +17,17 @@ f* {
     display: inline-block;
 }
 
-.developers #jen{
-    float:right;
+.developers #jim{
+    display: inline-block;
 }
 
+.developers #jen{
+    display: inline-block;
+}
+
+.developers #addy{
+    float:left;
+}
 
 @font-face{
   font-family: "Stellar";
@@ -113,10 +120,6 @@ f* {
 /* ---------*/
 .contact h2{
 }
-.col #jen{
-    float: right;
-}
-
 .contact {
     background: #white;
     position: relative;
