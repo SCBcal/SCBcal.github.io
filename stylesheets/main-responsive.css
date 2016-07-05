@@ -106,6 +106,9 @@
 
 /*iPad Landscape Mode and Large Tablets */
 @media (max-width: 1024px) {
+	.project-head h3{
+		padding-top: 400px;
+	}
 	.container{
 	    max-width: 800px;
 	}
@@ -245,6 +248,10 @@
 	  .container{
 	    max-width: 668px;
 	}
+	.project-head h3{
+		padding-top: 400px;
+	}
+
 	.add-top-half{
 	}
 	.add-bottom-half{
@@ -400,6 +407,14 @@
 @media (max-width: 768px) {
 	 .container{
 	    max-width: 668px;
+	}
+
+	.owl-carousel .owl-wrapper{
+		padding-top: 200px;
+	}
+
+	.project-head h3{
+		padding-top: 200px;
 	}
 
 	.add-top-half{
@@ -585,6 +600,7 @@
 	    padding-left:50px;
 	    padding-right:50px;
 	}
+
 
 	.add-top-half{
 	}
