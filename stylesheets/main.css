@@ -28,23 +28,25 @@ body{
 }
 
 .nav-tabs{
-  background-color:#4CD964;
+  background-color:#4CD964 !important;
+	border-style: solid 10px;
+	border-color: white;
 }
 
 .nav-tabs > li > a{
-  border: medium none;
+	border-style: solid 10px;
+	border-color: white;;
 }
 .nav-tabs > li > a:hover{
   background-color: #fff !important;
-    border: medium none;
     border-radius: 0;
     color:#000;
 		border-color: white;
-		border-top: none;
 }
 
 .nav-tabs>li>a{
 	color:white;
+	border:2px solid white;
 }
 
 
@@ -72,7 +74,7 @@ body{
   padding-top: 2px;
 }
 .tabs-left {
-  border-right: 1px solid #ddd;
+  border-right: 1px solid #fff;
 }
 .tabs-right {
   border-left: 1px solid #ddd;
@@ -97,7 +99,7 @@ body{
 .tabs-right>li.active>a,
 .tabs-right>li.active>a:hover,
 .tabs-right>li.active>a:focus {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 2px solid #fff;
   border-left-color: transparent;
 }
 .tabs-left>li>a {
