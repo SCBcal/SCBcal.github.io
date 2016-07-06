@@ -9,6 +9,10 @@ body{
 	overflow-x:hidden;
 }
 
+.clickMe{
+	width: 170px;
+	padding-left: 0px;
+}
 
 /*     Tab left stuff   */
 .titleBlock{
@@ -23,9 +27,26 @@ body{
 	font-weight: 300;
 }
 
-.tabs-left>li:active>a{
-  background-color: #4CD964;
+.nav-tabs{
+  background-color:#4CD964;
 }
+
+.nav-tabs > li > a{
+  border: medium none;
+}
+.nav-tabs > li > a:hover{
+  background-color: #fff !important;
+    border: medium none;
+    border-radius: 0;
+    color:#000;
+		border-color: white;
+		border-top: none;
+}
+
+.nav-tabs>li>a{
+	color:white;
+}
+
 
 #home-v h3{
 	text-align: center;
