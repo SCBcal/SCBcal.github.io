@@ -168,6 +168,8 @@ body{
 /*Ends pills section*/
 #MVB {
 	margin-bottom: 50px;
+	background-color: #4CD964;
+	border-color: white;
 }
 
 .myImages{
@@ -268,8 +270,8 @@ h1,h2,h3,h4,h5,h6{
 }
 
 #vlink{
-	background-color: white;
-	color: black;
+	background-color: inherit;;
+	color: white;
 }
 
 .img{
