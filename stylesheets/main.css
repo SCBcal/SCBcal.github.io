@@ -23,7 +23,9 @@ body{
 	font-weight: 300;
 }
 
-
+.tabs-left>li:active>a{
+  background-color: #4CD964;
+}
 
 #home-v h3{
 	text-align: center;
@@ -277,7 +279,7 @@ h1,h2,h3,h4,h5,h6{
 	margin-top: 30px;
 }
 .pad-top{
-	padding-top: 100px;
+	padding-top: 50px;
 }
 
 .pad-top-half{
