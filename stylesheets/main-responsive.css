@@ -50,6 +50,9 @@
 	#sm-trigger{
 		display: none;
 	}
+	.padding-inner{
+		padding-top: 10%;
+	}
 }
 
 /*Medium Widescreen Monitors*/
@@ -64,6 +67,9 @@
 	.fancybox img{
 		max-width: 420px;
 		max-height: 420px;
+	}
+	.padding-inner{
+		padding-top: 10%;
 	}
 }
 
