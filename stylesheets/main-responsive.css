@@ -81,6 +81,9 @@
 	#sm-trigger{
 		display: none;
 	}
+	.padding-inner{
+		padding-top: 10%;
+	}
 }
 
 /*Common Widescreen Laptops*/
