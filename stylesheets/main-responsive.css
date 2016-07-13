@@ -50,9 +50,6 @@
 	#sm-trigger{
 		display: none;
 	}
-	.padding-inner{
-		padding-top: 10%;
-	}
 	#mastwrap{
 		padding-top:5%;
 	}
@@ -84,7 +81,9 @@
 	#sm-trigger{
 		display: none;
 	}
-
+	#mastwrap{
+		padding-top:4%;
+	}
 }
 
 /*Common Widescreen Laptops*/
@@ -94,6 +93,9 @@
 	}
 	#sm-trigger{
 		display: none;
+	}
+	#mastwrap{
+		padding-top:2%;
 	}
 }
 
