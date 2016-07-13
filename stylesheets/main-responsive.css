@@ -81,8 +81,8 @@
 	#sm-trigger{
 		display: none;
 	}
-	.padding-inner{
-		padding-top: 10%;
+	#mastwrap{
+		padding-top:5%;
 	}
 }
 
