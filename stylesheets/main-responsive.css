@@ -121,6 +121,9 @@
 	.fancybox img{
 	max-width: 350px;
 	max-height: 350px;
+	#mastwrap{
+		padding-top:0%;
+	}
 }
 }
 
@@ -276,7 +279,7 @@
 	    max-width: 668px;
 	}
 	.project-head h3{
-		padding-top: 400px;
+		padding-top: 300px;
 	}
 
 	.add-top-half{
