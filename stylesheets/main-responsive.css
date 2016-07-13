@@ -53,6 +53,9 @@
 	.padding-inner{
 		padding-top: 10%;
 	}
+	#mastwrap{
+		padding-top:5%;
+	}
 }
 
 /*Medium Widescreen Monitors*/
@@ -68,8 +71,8 @@
 		max-width: 420px;
 		max-height: 420px;
 	}
-	.padding-inner{
-		padding-top: 10%;
+	#mastwrap{
+		padding-top:5%;
 	}
 }
 
@@ -81,9 +84,7 @@
 	#sm-trigger{
 		display: none;
 	}
-	#mastwrap{
-		padding-top:5%;
-	}
+
 }
 
 /*Common Widescreen Laptops*/
