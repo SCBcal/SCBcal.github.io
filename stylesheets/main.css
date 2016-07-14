@@ -28,7 +28,7 @@ body{
 }
 
 .nav-tabs{
-  background-color:#4CD964 !important;
+  background-color:#C7C7CC !important;
 	border-style: solid 10px;
 	border-color: white;
 }
@@ -152,7 +152,7 @@ body{
 }
 
 .color-bg{
-	background-color: #4CD964;
+	background-color: #C7C7CC;
 }
 
 #t1 h3{
@@ -161,7 +161,7 @@ body{
 
 /*.tab-pane h3 {
   color : white;
-  background-color: #4CD964;
+  background-color: #C7C7CC;
   padding : 5px 15px;
 	width: 100%;
 }*/
@@ -170,7 +170,7 @@ body{
 /*Ends pills section*/
 #MVB {
 	margin-bottom: 50px;
-	background-color: #4CD964;
+	background-color: #C7C7CC;
 	border-color: white;
 }
 
@@ -523,7 +523,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .liner-wide-intro{
 	margin: 30px 0;
-	color:#4CD964;
+	color:#C7C7CC;
 }
 .liner-wide-intro > span{
 	display: inline-block;
