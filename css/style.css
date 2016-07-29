@@ -5,6 +5,9 @@ f* {
     box-sizing: border-box;
 }
 /* did this to get the bottom part to be level*/
+#pic{
+  background-size: cover;
+}
 
 .container{
   width:100%;
