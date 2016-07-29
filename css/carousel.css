@@ -40,7 +40,6 @@
   min-width: 100%;
   height: 500px;
   -webkit-filter: contrast(58%) brightness(96%) saturate(145%);
-  filter: contrast(58%) brightness(96%) saturate(145%) grayscale(100%);
 }
 
 .right.carousel-control, .left.carousel-control {
