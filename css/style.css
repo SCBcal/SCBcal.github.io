@@ -56,8 +56,8 @@ f* {
 }
 
 .navbar.scrolled {
-    background: rgb(68, 68, 68); //IE
-    background: rgba(0, 0, 0, 0.78); //NON-IE
+    background: rgb(68, 68, 68);
+    background: rgba(0, 0, 0, 0.78);
 }
 /*----------------------------------*/
 
@@ -124,7 +124,7 @@ f* {
 .contact h2{
 }
 .contact {
-    background: #white;
+    background: white;
     position: relative;
     background-color: #34AADC;
 
