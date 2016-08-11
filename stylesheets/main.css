@@ -9,6 +9,18 @@ body{
 	overflow-x:hidden;
 }
 
+#penClass{
+	position: relative;
+	float: left;
+	width:  650px;
+	height: 400px;
+	background-position: 50% 50%;
+	background-repeat:   no-repeat;
+	background-size:     cover;
+	overflow: hidden;
+	display: block;
+}
+
 .clickMe{
 	width: 120px;
 	padding-left: 30px;
